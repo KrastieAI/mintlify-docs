@@ -10,7 +10,36 @@
   "favicon": "/favicon.svg",
   "navigation": {
     "pages": [
-      "untitled-page"
+      "untitled-page",
+      {
+        "group": "Billing",
+        "pages": [
+          "billing/do-you-use-word-based-pricing",
+          "billing/untitled-page-2",
+          "billing/untitled-page-1",
+          "billing/untitled-page"
+        ]
+      },
+      {
+        "group": "Account",
+        "pages": [
+          "account/how-do-i-delete-my-account",
+          "account/how-do-i-change-my-profile-settings"
+        ]
+      },
+      {
+        "group": "AI issues",
+        "pages": [
+          "ai-issues/how-do-i-make-ai-more-human"
+        ]
+      },
+      {
+        "group": "Integration issues",
+        "pages": [
+          "integration-issues/untitled-page-1",
+          "integration-issues/untitled-page"
+        ]
+      }
     ]
   },
   "logo": {
